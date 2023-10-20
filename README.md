@@ -39,7 +39,7 @@ Make sure to check `Alternate Formats` when in the Deck creator menu.
 <details>
 <summary>Can I contribute?</summary>
 <br>
-Feel free to let me know your ideas by contacting me on [Twitter](https://twitter.com/alexgrover14)
+Feel free to let me know your ideas by contacting me https://twitter.com/alexgrover14
 </details>
 
 ## Contact
