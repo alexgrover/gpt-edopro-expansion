@@ -21,3 +21,27 @@ If you already have a `user_config` file you can add the following dictionary to
 "should_read": true
 }
 ```
+
+## FAQ
+
+<details>
+<summary>How do I Install these cards?</summary>
+<br>
+See [Installation](## Installation)
+</details>
+
+<details>
+<summary>I am not seeing the cards</summary>
+<br>
+Make sure to check `Alternate Formats` when in the Deck creator menu.
+</details>
+
+<details>
+<summary>Can I contribute?</summary>
+<br>
+Feel free to let me know your ideas by contacting me on [Twitter](https://twitter.com/alexgrover14)
+</details>
+
+## Contact
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/alexgrover14.svg?style=social&label=Follow%20%40alexgrover14)](https://twitter.com/alexgrover14)
