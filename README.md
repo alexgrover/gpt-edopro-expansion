@@ -33,7 +33,7 @@ See [Installation](## Installation)
 <details>
 <summary>I am not seeing the cards</summary>
 <br>
-Make sure to check `Alternate Formats` when in the Deck creator menu.
+Make sure to check <code>Alternate Formats</code> when in the Deck creator menu.
 </details>
 
 <details>
