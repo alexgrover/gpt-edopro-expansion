@@ -81,10 +81,9 @@ function s.sscon(e,tp,eg,ep,ev,re,r,rp)
     return not s.summonedThisTurn
 end
 
--- (rest of your script remains unchanged)
 function s.pencon1(e,tp,eg,ep,ev,re,r,rp)
     local c=e:GetHandler()
-    return c:IsPreviousPosition(POS_FACEUP) and c:IsPreviousLocation(LOCATION_MZONE) and c:IsLocation(LOCATION_PZONE)
+    return eg:IsContains(c) and c:IsPreviousPosition(POS_FACEUP) and c:IsPreviousLocation(LOCATION_MZONE) and c:IsLocation(LOCATION_PZONE)
 end
 
 function s.pentg(e,tp,eg,ep,ev,re,r,rp,chk)
