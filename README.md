@@ -27,7 +27,7 @@ If you already have a `user_config` file you can add the following dictionary to
 <details>
 <summary>How do I Install these cards?</summary>
 <br>
-See [Installation](## Installation)
+See <a href="##installation">Installation</a>
 </details>
 
 <details>
