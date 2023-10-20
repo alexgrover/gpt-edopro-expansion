@@ -8,7 +8,7 @@ EDOPRO custom cards made by Openai chatGPT. Artworks by DALLE-3.
 
 These custom cards can be easily installed by creating a `user_config.json` located in `ProjectIgnis\config`. 
 
-You can obtain a ready-to-use user config ![here](https://gist.github.com/alexgrover/5a0c4a97e7adec0033609bf7e7fadcb7).
+You can obtain a ready-to-use user config [here](https://gist.github.com/alexgrover/5a0c4a97e7adec0033609bf7e7fadcb7).
 
 If you already have a `user_config` file you can add the following dictionary to the `"repos"` array:
 
